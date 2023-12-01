@@ -1,7 +1,7 @@
-Click here to view our [website](https://vaprojectgroup9.netlify.app/)💖
+Click here to view our [website](https://vaprojectgroup9.netlify.app/)
 
-## 👋 Welcome to the home page of Group 9
-This is the project website for ISSS608 Visual Analytics and Applications 2021-2022 April Term, Group 9. Our project is about [VAST Challenge 2022](https://vast-challenge.github.io/2022/) - Challenge 1: **Demographics and Relationships**
+## Vast Challenge 2022 Shiny Dashboard
+The project aims to characterize demographics of the town, describe the patterns of social activities in the community, and identify the predominant business base of the town based on data for VAST Challenge 2022.
 
 <p><a href="[https://vaproject.shinyapps.io/ISSS608VAProjectShinyApp/](https://vaprojectgroup9.netlify.app/)">
 <img src="https://user-images.githubusercontent.com/44923423/179392679-a511af99-a17e-4bbb-b311-36a8cd27a753.png" alt="homepage-screen-shot">
